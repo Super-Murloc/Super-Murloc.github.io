@@ -2,13 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://super-murloc.github.io/</id>
     <title>鱼人之家</title>
-    <updated>2020-11-25T06:41:40.971Z</updated>
+    <updated>2020-11-25T06:46:41.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://super-murloc.github.io/"/>
     <link rel="self" href="https://super-murloc.github.io/atom.xml"/>
     <logo>https://super-murloc.github.io/images/avatar.png</logo>
     <icon>https://super-murloc.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 鱼人之家</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么我要写博客？]]></title>
+        <id>https://super-murloc.github.io/post/wei-shi-me-wo-yao-xie-bo-ke/</id>
+        <link href="https://super-murloc.github.io/post/wei-shi-me-wo-yao-xie-bo-ke/">
+        </link>
+        <updated>2020-11-25T06:43:02.000Z</updated>
+        <content type="html"><![CDATA[<p>从下周开始我打算每周读完一本书，并就此写一篇读书笔记，希望可以提高我的文笔，也可以养成一个好习惯，更能够戒掉对于碎片阅读的依赖。😀</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://super-murloc.github.io/post/hello-gridea/</id>
